@@ -1,0 +1,12 @@
+cc_fever
+cc_fever-75yearsorolder
+cc_fever-9weeksto74years
+cc_feverimmunocompromised
+cc_abnormallab
+cc_post-opproblem
+cc_suture/stapleremoval
+cc_elevatedbloodsugar-nosymptoms
+cc_decreasedbloodsugar-symptomatic
+cc_elevatedbloodsugar-symptomatic
+cc_lossofconsciousness
+cc_hyperglycemia

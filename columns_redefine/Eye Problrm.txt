@@ -1,0 +1,6 @@
+cc_eyeinjury
+cc_eyepain
+cc_eyeproblem
+cc_foreignbodyineye
+cc_blurredvision
+cc_eyeredness

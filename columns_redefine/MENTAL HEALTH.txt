@@ -1,0 +1,5 @@
+cc_hallucinations
+cc_anxiety
+cc_suicidal
+cc_unresponsive
+cc_suicidal

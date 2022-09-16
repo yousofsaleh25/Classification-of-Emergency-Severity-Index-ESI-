@@ -1,0 +1,7 @@
+cc_confusion
+cc_neurologicproblem
+cc_seizure-newonset
+cc_seizure-priorhxof
+cc_dizziness
+cc_depression
+cc_seizures

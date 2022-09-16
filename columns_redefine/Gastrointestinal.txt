@@ -1,0 +1,9 @@
+cc_abdominalcramping
+cc_abdominaldistention
+cc_abdominalpain
+cc_mass
+cc_gibleeding
+cc_giproblem
+cc_poisoning
+cc_swallowedforeignbody
+cc_abdominalpainpregnant

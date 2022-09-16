@@ -1,0 +1,5 @@
+cc_rash
+cc_burn
+cc_insectbite
+cc_woundcheck
+cc_woundinfection

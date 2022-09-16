@@ -1,0 +1,3 @@
+cc_backpain
+cc_groinpain
+cc_jointswelling

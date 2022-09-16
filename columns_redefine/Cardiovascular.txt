@@ -1,0 +1,14 @@
+cc_edema
+cc_cardiacarrest
+cc_chestpain
+cc_chesttightness
+cc_hypertension
+cc_hypotension
+cc_irregularheartbeat
+cc_jointswelling
+cc_laceration
+cc_legswelling
+cc_syncope
+cc_rapidheartrate
+cc_palpitations
+cc_weakness

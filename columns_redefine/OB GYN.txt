@@ -1,0 +1,4 @@
+cc_vaginalbleeding
+cc_vaginaldischarge
+cc_exposuretostd
+cc_vaginalpain

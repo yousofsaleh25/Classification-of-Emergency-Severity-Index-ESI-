@@ -1,0 +1,7 @@
+cc_neckpain
+cc_dentalpain
+cc_facialinjury
+cc_faciallaceration
+cc_facialpain
+cc_sorethroat
+cc_facialswelling

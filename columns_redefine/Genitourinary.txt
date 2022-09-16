@@ -1,0 +1,6 @@
+cc_flankpain
+cc_hematuria
+cc_uri
+cc_urinaryretention
+cc_urinarytractinfection
+cc_trauma

@@ -1,0 +1,4 @@
+cc_allergicreaction
+cc_alteredmentalstatus
+cc_chills
+cc_animalbite

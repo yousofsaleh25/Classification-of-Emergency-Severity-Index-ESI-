@@ -1,0 +1,7 @@
+cc_breathingdifficulty
+cc_breathingproblem
+cc_cough
+cc_epistaxis
+cc_respiratorydistress
+cc_wheezing
+cc_shortnessofbreath

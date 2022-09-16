@@ -1,0 +1,9 @@
+cc_addictionproblem
+cc_agitation
+cc_alcoholintoxication
+cc_drug/alcoholassessment
+cc_drugproblem
+cc_overdose-accidental
+cc_overdose-intentional
+cc_withdrawal-alcohol
+cc_alcoholproblem
