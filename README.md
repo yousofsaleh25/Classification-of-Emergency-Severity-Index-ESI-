@@ -5,5 +5,7 @@ We divide the ESI levels into 2 levels. 1 Meaning need care and should stay in t
 
 We apply feature extraction and selection techniques and successfully reduce the number of features from 568 to just 24 features.
 
-All the results and development of the models are written in python in the jupyter notebook "ESI Prediction"
+All the results and development of the models are written in python in the jupyter notebook "ESI Prediction".
+
+Data Set Link https://drive.google.com/drive/folders/17bsFYji_d11iItHmqxhMjX5vjmdp47tu?fbclid=IwAR0THht4o7wE--2gImyJTK3UpopZM6xJrfH1DD45NA24-Jw_Z09FhaOXKzY
 
